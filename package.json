@@ -1,0 +1,13 @@
+{
+  "name": "xml2json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon --watch src src/app.js"
+  },
+  "dependencies": {
+    "nodemon": "^1.17.4",
+    "xml2json": "^0.11.2"
+  }
+}

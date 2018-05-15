@@ -1,0 +1,405 @@
+<root>
+    <accountType> Virtual Account </accountType>
+    <accountNumber>
+        <![CDATA[ M00000000002 USD ]]>
+    </accountNumber>
+    <lastTranDate>
+        <![CDATA[ 30-10-2017 ]]>
+    </lastTranDate>
+    <balanceCurrent>
+        <![CDATA[ 65,344.55 CR ]]>
+    </balanceCurrent>
+    <balanceAvailable>
+        <![CDATA[ 15,478.02 CR ]]>
+    </balanceAvailable>
+    <balanceRevaluated>
+        <![CDATA[ 15,478.02 CR USD ]]>
+    </balanceRevaluated>
+    <data-screen>
+        <![CDATA[0000001]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[Y]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ TR ]]>
+    </data-st>
+    <data-screen>
+        <![CDATA[0000001]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[Y]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ SO ]]>
+    </data-st>
+    <accountType> Virtual Account </accountType>
+    <accountNumber>
+        <![CDATA[ M00000000002 USD ]]>
+    </accountNumber>
+    <lastTranDate>
+        <![CDATA[ 30-10-2017 ]]>
+    </lastTranDate>
+    <balanceCurrent>
+        <![CDATA[ 45,344.55 CR ]]>
+    </balanceCurrent>
+    <balanceAvailable>
+        <![CDATA[ 44,152.00 CR ]]>
+    </balanceAvailable>
+    <balanceRevaluated>
+        <![CDATA[ 44,152.00 CR USD ]]>
+    </balanceRevaluated>
+    <data-screen>
+        <![CDATA[0000010]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[Y]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ TR ]]>
+    </data-st>
+    <data-screen>
+        <![CDATA[0000010]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[Y]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ SO ]]>
+    </data-st>
+    <accountType> Current Account </accountType>
+    <accountNumber>
+        <![CDATA[ 1007940 XCD ]]>
+    </accountNumber>
+    <lastTranDate>
+        <![CDATA[ 25-10-2017 ]]>
+    </lastTranDate>
+    <balanceCurrent>
+        <![CDATA[ 57,856.71 CR ]]>
+    </balanceCurrent>
+    <balanceAvailable>
+        <![CDATA[ 4,365.15 CR ]]>
+    </balanceAvailable>
+    <balanceRevaluated>
+        <![CDATA[ 1,616.72 CR USD ]]>
+    </balanceRevaluated>
+    <data-screen>
+        <![CDATA[0000002]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[Y]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ TR ]]>
+    </data-st>
+    <data-screen>
+        <![CDATA[0000002]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[Y]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ SO ]]>
+    </data-st>
+    <accountType> Current Account </accountType>
+    <accountNumber>
+        <![CDATA[ 6883506 USD ]]>
+    </accountNumber>
+    <lastTranDate>
+        <![CDATA[ 04-07-2017 ]]>
+    </lastTranDate>
+    <balanceCurrent>
+        <![CDATA[ 1,215,000.00 CR ]]>
+    </balanceCurrent>
+    <balanceAvailable>
+        <![CDATA[ 1,180,608.21 CR ]]>
+    </balanceAvailable>
+    <balanceRevaluated>
+        <![CDATA[ 1,180,608.21 CR USD ]]>
+    </balanceRevaluated>
+    <data-screen>
+        <![CDATA[0000005]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[&nbsp;]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ TR ]]>
+    </data-st>
+    <accountType> Current Account </accountType>
+    <accountNumber>
+        <![CDATA[ 6883506 EUR ]]>
+    </accountNumber>
+    <lastTranDate>
+        <![CDATA[ 19-06-2017 ]]>
+    </lastTranDate>
+    <balanceCurrent>
+        <![CDATA[ 1,215,000.00 CR ]]>
+    </balanceCurrent>
+    <balanceAvailable>
+        <![CDATA[ 1,165,010.20 CR ]]>
+    </balanceAvailable>
+    <balanceRevaluated>
+        <![CDATA[ 573,077.15 CR USD ]]>
+    </balanceRevaluated>
+    <data-screen>
+        <![CDATA[0000009]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[Y]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ TR ]]>
+    </data-st>
+    <data-screen>
+        <![CDATA[0000009]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[Y]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ SO ]]>
+    </data-st>
+    <accountType> Current Account </accountType>
+    <accountNumber>
+        <![CDATA[ 1007940 USD ]]>
+    </accountNumber>
+    <lastTranDate>
+        <![CDATA[ 00-00-0000 ]]>
+    </lastTranDate>
+    <balanceCurrent>
+        <![CDATA[ 57,856.71 CR ]]>
+    </balanceCurrent>
+    <balanceAvailable>
+        <![CDATA[ 26,517.62 CR ]]>
+    </balanceAvailable>
+    <balanceRevaluated>
+        <![CDATA[ 26,517.62 CR USD ]]>
+    </balanceRevaluated>
+    <accountType> Current Account </accountType>
+    <accountNumber>
+        <![CDATA[ 100794 USD ]]>
+    </accountNumber>
+    <lastTranDate>
+        <![CDATA[ 00-00-0000 ]]>
+    </lastTranDate>
+    <balanceCurrent>
+        <![CDATA[ 57,856.71 CR ]]>
+    </balanceCurrent>
+    <balanceAvailable>
+        <![CDATA[ 26,517.62 CR ]]>
+    </balanceAvailable>
+    <balanceRevaluated>
+        <![CDATA[ 26,517.62 CR USD ]]>
+    </balanceRevaluated>
+    <data-screen>
+        <![CDATA[0000012]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[Y]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ SO ]]>
+    </data-st>
+    <accountType> Current Account </accountType>
+    <accountNumber>
+        <![CDATA[ 1 USD ]]>
+    </accountNumber>
+    <lastTranDate>
+        <![CDATA[ 00-00-0000 ]]>
+    </lastTranDate>
+    <balanceCurrent>
+        <![CDATA[ 0.00 CR ]]>
+    </balanceCurrent>
+    <balanceAvailable>
+        <![CDATA[ 0.00 CR ]]>
+    </balanceAvailable>
+    <balanceRevaluated>
+        <![CDATA[ 0.00 CR USD ]]>
+    </balanceRevaluated>
+    <accountType> Savings Account </accountType>
+    <accountNumber>
+        <![CDATA[ 7001258 USD ]]>
+    </accountNumber>
+    <lastTranDate>
+        <![CDATA[ 30-11-2017 ]]>
+    </lastTranDate>
+    <balanceCurrent>
+        <![CDATA[ 252,870.00 CR ]]>
+    </balanceCurrent>
+    <balanceAvailable>
+        <![CDATA[ 51,583.40 CR ]]>
+    </balanceAvailable>
+    <balanceRevaluated>
+        <![CDATA[ 51,583.40 CR USD ]]>
+    </balanceRevaluated>
+    <data-screen>
+        <![CDATA[0000006]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[&nbsp;]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ TR ]]>
+    </data-st>
+    <accountType> Savings Account </accountType>
+    <accountNumber>
+        <![CDATA[ 7001308 CAD ]]>
+    </accountNumber>
+    <lastTranDate>
+        <![CDATA[ 19-06-2017 ]]>
+    </lastTranDate>
+    <balanceCurrent>
+        <![CDATA[ 5,425.00 CR ]]>
+    </balanceCurrent>
+    <balanceAvailable>
+        <![CDATA[ 7,180.64 DT ]]>
+    </balanceAvailable>
+    <balanceRevaluated>
+        <![CDATA[ 2,622.77 DT USD ]]>
+    </balanceRevaluated>
+    <data-screen>
+        <![CDATA[0000007]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[&nbsp;]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ TR ]]>
+    </data-st>
+    <accountType> Loan Account </accountType>
+    <accountNumber>
+        <![CDATA[ 3301987 USD ]]>
+    </accountNumber>
+    <balanceCurrent>
+        <![CDATA[ 19,927.34 CR ]]>
+    </balanceCurrent>
+    <balanceRevaluated>
+        <![CDATA[ 5,641.33 CR USD ]]>
+    </balanceRevaluated>
+    <data-screen>
+        <![CDATA[0000003]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[&nbsp;]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ TR ]]>
+    </data-st>
+    <accountType> Creditcard Account </accountType>
+    <accountNumber>
+        <![CDATA[ ****-****-****----- GBP ]]>
+    </accountNumber>
+    <lastTranDate>
+        <![CDATA[ 00-00-0000 ]]>
+    </lastTranDate>
+    <balanceCurrent>
+        <![CDATA[ 37,135.45 CR ]]>
+    </balanceCurrent>
+    <balanceAvailable>
+        <![CDATA[ 4,254,647.35 CR ]]>
+    </balanceAvailable>
+    <balanceRevaluated>
+        <![CDATA[ 2,395,208.86 CR USD ]]>
+    </balanceRevaluated>
+    <accountType> Creditcard Account </accountType>
+    <accountNumber>
+        <![CDATA[ ****-****-****-3456 GBP ]]>
+    </accountNumber>
+    <lastTranDate>
+        <![CDATA[ 00-00-0000 ]]>
+    </lastTranDate>
+    <balanceCurrent>
+        <![CDATA[ 37,135.45 CR ]]>
+    </balanceCurrent>
+    <balanceAvailable>
+        <![CDATA[ 36,119.66 CR ]]>
+    </balanceAvailable>
+    <balanceRevaluated>
+        <![CDATA[ 20,334.03 CR USD ]]>
+    </balanceRevaluated>
+    <accountType> Third party Account </accountType>
+    <accountNumber>
+        <![CDATA[ 0102995001000840 USD ]]>
+    </accountNumber>
+    <balanceCurrent>
+        <![CDATA[ 670,483.79 CR ]]>
+    </balanceCurrent>
+    <balanceRevaluated>
+        <![CDATA[ 670,483.79 CR USD ]]>
+    </balanceRevaluated>
+    <data-screen>
+        <![CDATA[0000015]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ TR ]]>
+    </data-st>
+    <data-screen>
+        <![CDATA[0000015]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ ST ]]>
+    </data-st>
+    <accountType> Third party Account </accountType>
+    <accountNumber>
+        <![CDATA[ 2000192005924 USD ]]>
+    </accountNumber>
+    <balanceCurrent>
+        <![CDATA[ 162,122.89 CR ]]>
+    </balanceCurrent>
+    <balanceRevaluated>
+        <![CDATA[ 150,000.00 CR USD ]]>
+    </balanceRevaluated>
+    <data-screen>
+        <![CDATA[0000016]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ TR ]]>
+    </data-st>
+    <data-screen>
+        <![CDATA[0000016]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ ST ]]>
+    </data-st>
+    <accountType> Third party Account </accountType>
+    <accountNumber>
+        <![CDATA[ 574037236641 USD ]]>
+    </accountNumber>
+    <balanceCurrent>
+        <![CDATA[ 100,000.00 CR ]]>
+    </balanceCurrent>
+    <balanceRevaluated>
+        <![CDATA[ 100,000.00 CR USD ]]>
+    </balanceRevaluated>
+    <data-screen>
+        <![CDATA[0000017]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ TR ]]>
+    </data-st>
+    <data-screen>
+        <![CDATA[0000017]]>
+    </data-screen>
+    <data-accnrst>
+        <![CDATA[]]>
+    </data-accnrst>
+    <data-st>
+        <![CDATA[ ST ]]>
+    </data-st>
+</root>

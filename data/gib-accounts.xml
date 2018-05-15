@@ -1,0 +1,56 @@
+<accounts>
+	<account>
+		<accountType> Virtual Account </accountType>
+		<accountNumber>
+			<![CDATA[ M00000000002 USD ]]>
+		</accountNumber>
+		<lastTranDate>
+			<![CDATA[ 30-10-2017 ]]>
+		</lastTranDate>
+		<balanceCurrent>
+			<![CDATA[ 45,344.55 CR ]]>
+		</balanceCurrent>
+		<balanceAvailable>
+			<![CDATA[ 44,152.00 CR ]]>
+		</balanceAvailable>
+		<balanceRevaluated>
+			<![CDATA[ 44,152.00 CR USD ]]>
+		</balanceRevaluated>
+		<data-screen>
+			<![CDATA[0000010]]>
+		</data-screen>
+		<data-accnrst>
+			<![CDATA[Y]]>
+		</data-accnrst>
+		<data-st>
+			<![CDATA[ SO ]]>
+		</data-st>
+	</account>
+	<account>
+		<accountType> Current Account </accountType>
+		<accountNumber>
+			<![CDATA[ 1007940 XCD ]]>
+		</accountNumber>
+		<lastTranDate>
+			<![CDATA[ 25-10-2017 ]]>
+		</lastTranDate>
+		<balanceCurrent>
+			<![CDATA[ 57,856.71 CR ]]>
+		</balanceCurrent>
+		<balanceAvailable>
+			<![CDATA[ 4,365.15 CR ]]>
+		</balanceAvailable>
+		<balanceRevaluated>
+			<![CDATA[ 1,616.72 CR USD ]]>
+		</balanceRevaluated>
+		<data-accnrst>
+			<![CDATA[Y]]>
+		</data-accnrst>
+		<data-screen>
+			<![CDATA[0000002]]>
+		</data-screen>
+		<data-st>
+			<![CDATA[ SO ]]>
+		</data-st>
+	</account>
+</accounts>
